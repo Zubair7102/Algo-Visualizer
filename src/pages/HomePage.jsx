@@ -9,7 +9,7 @@ const HomePage = () => {
     <div className=" flex flex-col font-bold text-cyan-900 bg-cyan-50 items-center h-screen">
       <h1 className="text-6xl mt-56">
         <p className="text-center">WELCOME TO</p>
-        <p>Algo Visualizer</p>
+        <p>ALGO VISUALIZER</p>
       </h1>
       <br />
       <p>
