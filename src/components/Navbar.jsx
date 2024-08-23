@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <div className="flex justify-between bg-[#40A2E3] text-[#F8F6E3] font-bold text-xl p-4">
       <div>
-        <NavLink to="/">Algorithm Insights</NavLink>
+        <NavLink to="/">Algo Visualizer</NavLink>
       </div>
       <div>
         <ul className="flex gap-4 ">
